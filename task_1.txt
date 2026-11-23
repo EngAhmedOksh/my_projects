@@ -1,0 +1,6 @@
+1. GitHub Username: [EngAhmedOksh] LeetCode Username: [EngAhmedOksh] HackerRank Username: [Ahmed Oksh]
+2. Discord User ID: [1574157128808272054]
+3. Git Version: [2.56.1]
+4. Python Version: [3.14.7] GCC Version: [16.2.0]
+5. IDE/Code Editor Version: [Visual Studio Code 1.147.0]
+6. Proteus Version: [8.13] Arduino IDE Version: [2.3.11]
